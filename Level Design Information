@@ -10,31 +10,44 @@ Synopsis: Bob Protag realises, the power he posesses and decides to take it to t
 Level 1.1: back to work (Alternative title: Taking it to The streets)
 *********************
 Objective: Move right, attacking all enemies and NPCs till you reach the work carpark.
-Physical Description: Lateral construction, few platforms
+Physical Description: Lateral construction, few platforms up and down stairs, 
 
 Level 1.2: Parking Ticket
 ***********************
 Objrctive: Go up the car park, attacking all Enemies and NPCs till you reach the top.
+Physical description: Vertical construction, lots of platorms (roofs of buildings), The car park at the bottom with lots of NPCs and fewer as the player rises, with many more violent enemies as the level progresses.
 
 level 1.3: Office Party 
 **********************
 Objective: Go through the level, collecting poer-ups and health, defeating all obstacles  then defeat the boss
+physical description: Lateral construstion with b oss room at the end. Lots of violent enemies with a secretary before the boss to revive the player pre-boss fight.
+
 
 ***********************
 "University Stage 2" 
 ***********************
-Synopsis: After satiating his vendetta, Bob Protag decides to deal with the unruly students and their power hungry lecturer 
+Synopsis: After satiating his vendetta, Bob Protag decides to deal with the unruly students and their power hungry lecturer.
 ***********************
-
 
 level 2.1: Extra Credit
 ***********************
+Objective: rush through the enemies to reach end of the level. Find the lecturer
+Physical description: A lateral platformer with  tables and chairs, woter fountains and bike sheds... numerous NPCs obstucting view of the objective.
 
 level 2.2: Unacedemia
 *******************
+Objective: rush through the enemies to reach end of the level. Find the lecturer.
+Physical description: Top -down beat em up; quick short lines of levels with numerous combative enemies leading to a stairwell then the next short line.
 
 level 2.3: Aluta Finito
 ***********************
+
+Objective: rush through the enemies to reach end of the level. defeat the lecturer.
+Physical description:: Roof tops Lots of gaps to fall through, quickly rush through combative enemies then the Lecturere boss fight.
+
+
+
+The levels following will follow a similar physical structure.
 
 ***********************
 "Bank Stage 3"
@@ -55,13 +68,11 @@ Synopsis: On the way home Bob is acosted by the police who accuse him (falsely) 
 ***********************
 
 level 4.1: Domestic Assault
-***********************
 
 level 4.2: Steve Irwin was here (Name pending change)
-***********************
 
 level 4.3: Citizen's Unrest 
-*************************
+
 
 ***********************
 "Army Stage 5" 
@@ -70,32 +81,68 @@ Synopsis: After the 'missunderstanding' with the police on his way home, Bob Pro
 ***********************
 
 
-level 5,1: Think Tanks
-***********************
-
+level 5.1: Think Tanks
 
 level 5.2: National Insecurity
-***********************
-
 
 level 5.3: Commander in Sheep (Title pending) 
-***********************
 
 ***********************
 "Final stage?" (if we may move beyond) 
 ***********************
 Synopsis: Seeing his ability has empowered him at the cost of his old lifwe. Bob retrurns to his ruined home. Attacked by super-heroes, He ends up having to face his super-powered ex-girlfriend.
-***********************
-
 
 Level 6.1: I'm Taking the Dog 
-***********************
-
 
 1evel 6.2: Pre-nup snub 
-***********************
-
 
 level 6.3: Unholy Unmatrimony (or Having a Domestic , Steel thy hand) 
-***********************
+
+
+***************************************************************************************************************
+***************************************************************************************************************
+
+AI
+
+Standard NPCS
+They are of three variants. 
+Still: 
+Spawned at the start of the game... non moving, non respawning. 
+
+Roving: 
+Spawned from spawn points. respawning a while after death. They do not attack the player and occasionally drop
+items.
+vigilante:
+(optional) Like roving they spawn from a spawn point. They may chase the player for a few steps then give up the hunt (while in their circle of influence) occasionally dropping an item pickup.
+
+
+Special NPCS
+Security/ police/ military:
+They have a stable short range roving state. When the player enters their field of influence, they will consistantly chase the player till the NPC is out of view.
+
+Bosses:
+Each boss will have thier own specialist attack routines based on story and attack routine.
+
+
+**********************************************************************************************************************
+**********************************************************************************************************************
+Music and sound effects:
+
+Sound effects 
+Strike: A small clap sound effect with heavy reverb to simulate a strike
+thunderclap: for use with the item "Summon the Thunda"
+cash register: a mid tone cash register sound effect for use with the "pimp hand" item
+spalsh: A splash sound effect for the item "Fish dance"
+Voiced lines while attacking othe odd enemy.
+Item pickup: A pinging soundeffect similar to a dinnerbell
+
+Music
+Each level will have variations on the same themeall in a 70s funk and disco style. 
+Introductions to levels use the same musical piece, a soft jazz piece.
+
+
+
+
+
+
 
