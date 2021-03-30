@@ -1,5 +1,9 @@
 # One_Hand_Clap
-"One Hand Clap: A City of Red Faces".  
+"One Hand Clap: A City of Red Faces".  (incomplete)
+
+This Was a prototype Idea for UWS (Paisley) Level design module. 
+
+
 
 STORY
 -------
